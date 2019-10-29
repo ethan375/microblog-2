@@ -11,3 +11,5 @@ To run the app:
 once the dev server is up navigate to localhost:5000 in your web browser
 
 navigating to `localhost:5000/` or `localhost:500/index` will render an html template and display posts from users 
+
+There is now a login page with a link at the top of the home page, the login form is sort of a 'dummy' because it is not currently hooked into a database.
