@@ -9,3 +9,5 @@ To run the app:
 3. install the dependencies found in the Pipfile
 4. once everything has finished installing run `flask run`
 once the dev server is up navigate to localhost:5000 in your web browser
+
+navigating to `localhost:5000/` or `localhost:500/index` will render an html template and display posts from users 
