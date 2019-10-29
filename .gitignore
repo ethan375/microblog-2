@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+.vscode
+.venv
+.DS_Store
+# dont need ds store because I am not using a mac but included it anyway
