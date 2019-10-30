@@ -15,3 +15,5 @@ navigating to `localhost:5000/` or `localhost:500/index` will render an html tem
 There is now a login page with a link at the top of the home page, the login form is sort of a 'dummy' because it is not currently hooked into a database.
 
 In this release there are no new routes to check out. There has been a database setup using sqlite. Added users and posts classes/columns
+
+There is now the ability to register as a new user! In the login page there is a link to register, all the business logic has also been added
